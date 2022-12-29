@@ -1,4 +1,4 @@
-# PICO4UnityGettingStarted
+# Getting Started With PICO 4 In Unity
 PICO 4 Development with Unity and XRI
 
 ## Requirements
